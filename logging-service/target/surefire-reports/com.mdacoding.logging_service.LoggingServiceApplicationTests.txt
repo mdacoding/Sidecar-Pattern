@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mdacoding.logging_service.LoggingServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.970 s -- in com.mdacoding.logging_service.LoggingServiceApplicationTests
